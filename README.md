@@ -6,3 +6,5 @@ Hello World!
 
 Next change here!
 
+%md
+![Project Logo](dbdiagram.png)
