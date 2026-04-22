@@ -6,3 +6,4 @@ Hello World!
 
 Next change here!
 
+![Project Logo](dbdiagram.png)
